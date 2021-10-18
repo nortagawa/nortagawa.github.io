@@ -17,9 +17,9 @@ phone = "1-408-598-1110"
 profileImage = "img/Coffee_Headshot.jpg"
 showEducation = true
 showExperience = true
-showOpenSource = true
-showProjects = true
-showPublications = true
+showOpenSource = false
+showProjects = false
+showPublications = false
 showQr = false
 showSkills = true
 
