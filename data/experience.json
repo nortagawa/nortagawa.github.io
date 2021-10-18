@@ -1,0 +1,32 @@
+[
+    {
+        "role":"Sr. Data Science Manager",
+        "company":"[Zymergen, Inc.](https://www.zymergen.com/)",
+        "summary":"We engineer the biosynthetic pathways of microbes in order to synthesize commercially valuable molecules. Our team uses a cloud-based platform, big data and sophisticated bioinformatics pipelines to recommend and learn from strain edits.",
+        "range":"2019 - Present"
+    },
+    {
+        "role":"Integrated Biology R&D Operating Manager",
+        "company":"[Agilent Technologies, Inc.](https://www.agilent.com/)",
+        "summary":"Operating manager for Integrated Biology software solutions.\nProject manager for [Mass Profiler Professional](https://www.agilent.com/en/product/software-informatics/mass-spectrometry-software/data-analysis/mass-profiler-professional-software), [MassHunter Profinder](https://www.agilent.com/en/video/profinder-demo), MassHunter ID Browser and related tools.\n* 2018: Released [MassHunter Classifier 1.0](https://www.agilent.com/cs/library/technicaloverviews/public/technical-overview-masshunter-classifier-5994-1890en-agilent.pdf) - a machine learning based tool for detection of food fraud using high-resolution mass spectrometry.\nAlso released [Lipid Annotator 1.0](https://www.agilent.com/cs/library/technicaloverviews/public/technicaloverview-lipidomics-lipid-annotator-5994-1111en-agilent.pdf) - a fit-for-purpose lipidomics annotation tool.\n* 2016: Released [VistaFlux 1.0](https://www.agilent.com/en/product/software-informatics/mass-spectrometry-software/data-analysis/vistaflux-software) - a software solution for stable label metabolic tracer analysis using high-resolution LC/Q-TOF mass spectrometry.\n* 2014: Released [Mass Profiler Professional 13.0](https://www.agilent.com/en/product/software-informatics/mass-spectrometry-software/data-analysis/mass-profiler-professional-software) - a chemometric profiling application aimed at integrated biology analysis across multiple 'omics.",
+        "range":"2014 - 2019"
+    },
+    {
+        "role":"Expert R&D Scientist",
+        "company":"[Agilent Technologies, Inc.](https://www.agilent.com/)",
+        "summary":"Cross-functional R&D leader of Integrated Biology software solutions. R&D point of contact for academic, government and industry collaborators in metabolomics.\n* 2013: Released [MassHunter Profinder](https://www.agilent.com/en/video/profinder-demo) - a batch feature extraction tool for LC/MS chemometric data analysis. [Press release](http://www.agilent.com/about/newsroom/presrel/2013/16dec-ca13090.html)",
+        "range":"2013 - 2014"
+    },
+    {
+        "role":"R&D Scientist / Software Engineer",
+        "company":"[Agilent Technologies, Inc.](https://www.agilent.com/)",
+        "summary":"C# .NET developer for MassHunter family of mass spectrometry data acquisition and data analysis software packages.\n* 2012: Successfully utilized Scrum to project manage the development of two chemometric software packages for high-resolution mass spectrometry.\n* 2011: Architected statistical profiling software capable of integrating biological data from multiple instrument sources (microarrays, NGS, mass spectrometers).\n* 2010: Improved real-time acquisition algorithms for Q-TOF mass spectrometers, thereby doubling performance in protein ID applications. My work was a mix of bench chemistry, data acquisition, data mining and novel algorithm development in firmware.\n* 2009: Released a chemometrics package for mass spectrometric data analysis, with a particular emphasis in proteomics and metabolomics data.\n* 2008: Evolved feature extraction algorithms for use in qualitative data analysis software.",
+        "range":"2008 - 2013"
+    },
+    {
+        "role":"Software Design Engineer",
+        "company":"Ciphergen Biosystems, Inc.",
+        "summary":"Windows MFC C++ developer for Ciphergen ProteinChip and Biomarker Wizard softwares.",
+        "range":"1998 - 2001"
+    }
+]
