@@ -1,0 +1,31 @@
+.list-social-icons a:hover {
+  color: #fdb714;
+}
+
+.list-social-icons a .fa-lg {
+  font-size: 1.75rem;
+}
+
+.list-icons {
+  font-size: 3rem;
+}
+
+.list-icons .list-inline-item i:hover {
+  color: #fdb714;
+}
+
+.bg-primary {
+  background-color: #0275bc !important;
+}
+
+.text-primary {
+  color: #fdb714 !important;
+}
+
+a {
+  color: #0275bc;
+}
+
+a:active {
+  color: #fdb714;
+}
