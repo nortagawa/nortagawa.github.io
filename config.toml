@@ -8,7 +8,7 @@ PygmentsStyle = "monokai"
 enableGitInfo = false
 
 [params]
-address = "Milpitas, CA"
+address = "San Francisco Bay Area"
 email = "nkitagawa@gmail.com"
 favicon = "/favicon.ico"
 firstName = "Norton"
