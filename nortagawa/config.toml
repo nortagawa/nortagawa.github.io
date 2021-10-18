@@ -1,5 +1,5 @@
 title = "Norton Kitagawa, Ph.D."
-baseURL = "https://example.com/"
+baseURL = "https://nortagawa.github.io/"
 theme = "resume"
 languageCode = "en-us"
 PygmentsCodeFences = true
