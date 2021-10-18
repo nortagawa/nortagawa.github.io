@@ -22,5 +22,11 @@
         "company":"[Agilent Technologies, Inc.](https://www.agilent.com/)",
         "summary":"C# .NET developer for MassHunter family of mass spectrometry data acquisition and data analysis software packages.\n* 2012: Successfully utilized Scrum to project manage the development of two chemometric software packages for high-resolution mass spectrometry.\n* 2011: Architected statistical profiling software capable of integrating biological data from multiple instrument sources (microarrays, NGS, mass spectrometers).\n* 2010: Improved real-time acquisition algorithms for Q-TOF mass spectrometers, thereby doubling performance in protein ID applications. My work was a mix of bench chemistry, data acquisition, data mining and novel algorithm development in firmware.\n* 2009: Released a chemometrics package for mass spectrometric data analysis, with a particular emphasis in proteomics and metabolomics data.\n* 2008: Evolved feature extraction algorithms for use in qualitative data analysis software.",
         "range":"2008 - 2013"
+    },
+    {
+        "role":"Software Design Engineer",
+        "company":"Ciphergen Biosystems, Inc.",
+        "summary":"Windows MFC C++ developer for Ciphergen ProteinChip and Biomarker Wizard softwares.",
+        "range":"1998 - 2001"
     }
 ]
