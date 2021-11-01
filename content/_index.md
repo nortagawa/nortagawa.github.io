@@ -10,6 +10,6 @@ outputs:
   - json
 ---
 
-21 years in mass spectrometry. 20+ years in software engineering. Real estate investor. Maker. Effective force multiplier and lifelong student of high achievers. I build and develop great teams, aligning their strengths, creativity and passions with business needs.
+23 years in mass spectrometry. 22 years in bioinformatics software engineering. Real estate investor. Maker. Effective force multiplier and lifelong student of high achievers. I build and develop great teams, aligning their strengths, creativity and passions with business needs.
 
 Specialties: Metabolomics, proteomics, chemometric profiling, data visualization, data mining, mass spectrometry, analytical instrumentation, biochemistry, cell/developmental biology, molecular biology, software engineering, algorithms development
