@@ -9,7 +9,6 @@ enableGitInfo = false
 
 [params]
 address = "San Francisco Bay Area"
-css = ["css/custom.css"]
 email = "nkitagawa@gmail.com"
 favicon = "/favicon.ico"
 firstName = "Norton"
