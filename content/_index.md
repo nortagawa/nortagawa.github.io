@@ -1,5 +1,5 @@
 ---
-title: "Home"
+title: "Norton Kitagawa's Landing Page"
 date: 2021-10-17T21:12:13-07:00
 sitemap:
   priority: 1.0
