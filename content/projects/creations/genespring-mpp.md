@@ -27,3 +27,5 @@ Back in 2004 (well before I joined), Agilent had bought a company called Silicon
 ![The original GeneSpring MS - circa 2008](/img/genespring-ms.png "The original GeneSpring MS - circa 2008")
 
 The Silicon Genetics platform had some "age" to it and some significant usability issues, and so in 2007, Agilent partnered with Strand Life Sciences to use Strand's more modern statistical analysis platform and port over functionality from GeneSpring. In 2008, I was assigned to lead an effort to design a mass spectrometry based metabolomics & proteomics workflow for the new GeneSpring. This software would become core to my responsibilities for the next 10 years.
+
+![The first release of Mass Profiler Professional - circa 2009](/img/mpp-2009.png "The first release of Mass Profiler Professional - circa 2009")
