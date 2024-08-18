@@ -32,12 +32,11 @@ const Hero = () => {
 
           <TextGenerateEffect
             className="text-center text-[40px] md:text-5xl lg:text-6xl"
-            words="Transforming Concepts into Seamless Experiences"
+            words="Unifying Software, Hardware, and AI into Joyous Customer Experiences"
           />
 
           <p className="mb-4 text-center text-sm md:text-lg md:tracking-wider lg:text-2xl">
-            Hi, I&apos;m Norton, an experienced hardware & software product
-            visionary.
+            Hi, I&apos;m Norton, a scientist and experienced product visionary.
           </p>
 
           <a href="#about">
