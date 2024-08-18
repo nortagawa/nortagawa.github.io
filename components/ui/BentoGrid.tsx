@@ -8,6 +8,7 @@ import { useState } from "react";
 import MagicButton from "./MagicButton";
 import Lottie from "react-lottie";
 import { IoCopyOutline } from "react-icons/io5";
+import { techStackLeft, techStackRight } from "@/data";
 
 export const BentoGrid = ({
   className,
@@ -123,26 +124,32 @@ export const BentoGridItem = ({
           {id === 3 && (
             <div className="absolute -right-3 flex w-fit gap-1 lg:-right-2 lg:gap-5">
               <div className="flex flex-col gap-3 lg:gap-8">
-                {["Python", "C# .NET", "TypeScript"].map((item) => (
-                  <span
-                    key={item}
-                    className="lg:py4 rounded-lg bg-[#10132E] px-3 py-2 text-center text-xs opacity-50 lg:px-3 lg:text-base lg:opacity-100"
-                  >
-                    {item}
-                  </span>
-                ))}
-                <span className="rounded-lg bg-[#10132e] px-3 py-4 text-center" />
+                {techStackLeft.map((item) =>
+                  item ? (
+                    <span
+                      key={item}
+                      className="lg:py4 rounded-lg bg-[#10132E] px-3 py-2 text-center text-xs opacity-50 lg:px-3 lg:text-base lg:opacity-100"
+                    >
+                      {item}
+                    </span>
+                  ) : (
+                    <span className="rounded-lg bg-[#10132e] px-3 py-5 text-center" />
+                  ),
+                )}
               </div>
               <div className="flex flex-col gap-3 lg:gap-8">
-                <span className="rounded-lg bg-[#10132e] px-3 py-4 text-center" />
-                {["GitHub", "Jenkins CI/CD", "Kubernetes"].map((item) => (
-                  <span
-                    key={item}
-                    className="lg:py4 rounded-lg bg-[#10132E] px-3 py-2 text-center text-xs opacity-50 lg:px-3 lg:text-base lg:opacity-100"
-                  >
-                    {item}
-                  </span>
-                ))}
+                {techStackRight.map((item) =>
+                  item ? (
+                    <span
+                      key={item}
+                      className="lg:py4 rounded-lg bg-[#10132E] px-3 py-2 text-center text-xs opacity-50 lg:px-3 lg:text-base lg:opacity-100"
+                    >
+                      {item}
+                    </span>
+                  ) : (
+                    <span className="rounded-lg bg-[#10132e] px-3 py-5 text-center" />
+                  ),
+                )}
               </div>
             </div>
           )}
